@@ -54,5 +54,5 @@ After restarting Terminator you should be able to choose your favourite scheme. 
 
 See the Terminator documentation if you want to make further customizations.
 
-#Credits
+##Credits
 Big thanks to **[Mark Badolato](https://github.com/mbadolato)** for creating awesome **[iTerm2 Color Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes)** project!
