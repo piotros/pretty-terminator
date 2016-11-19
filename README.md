@@ -2,6 +2,7 @@
 
 - [Intro](#intro)
 - [Installation Instructions](#installation-instructions)
+- [Credits](#credits)
 
 ##Intro
 > Easy to use Terminator terminal color schemes.
@@ -52,3 +53,6 @@ Your configuration file should look like this:
 After restarting Terminator you should be able to choose your favourite scheme. All of them can be selected from the terminals context menu under "Profiles" position.
 
 See the Terminator documentation if you want to make further customizations.
+
+#Credits
+Big thanks to **[Mark Badolato](https://github.com/mbadolato)** for creating awesome **[iTerm2 Color Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes)** project!
