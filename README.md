@@ -1,6 +1,7 @@
 # pretty-terminator
 
 - [Intro](#intro)
+- [What's Included?](#whats-included)
 - [Installation Instructions](#installation-instructions)
 - [Credits](#credits)
 
@@ -10,6 +11,9 @@
 This project is just a Terminator related part extracted from [iTerm Color Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) repository.
 
 All of schemes are concatenated into one file ready to paste into Terminator configuration. No need to add them one by one :wink:.
+
+##What's Included?
+Take a look at [Schemes List :page_facing_up:](SchemesList.md).
 
 ##Installation Instructions
 To make you Terminator prettier copy [PrettyTerminator.ini](PrettyTerminator.ini) content and paste it into `[profiles]` section of configuration file located in: `~/.config/terminator/config`.
