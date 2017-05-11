@@ -5,7 +5,7 @@
 - [Installation Instructions](#installation-instructions)
 - [Credits](#credits)
 
-##Intro
+## Intro
 > Easy to use Terminator terminal color schemes.
 
 This project is just a Terminator related part extracted from [iTerm Color Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) repository.
@@ -14,10 +14,10 @@ All of schemes are concatenated into one file ready to paste into Terminator con
 
 **No need to add them one by one :wink:.**
 
-##What's Included?
+## What's Included?
 **Over 140 color schemes!** Take a look at [Schemes List :page_facing_up:](SchemesList.md).
 
-##Installation Instructions
+## Installation Instructions
 To make you Terminator prettier copy [PrettyTerminator.ini](PrettyTerminator.ini) content and paste it into `[profiles]` section of configuration file located in: `~/.config/terminator/config`.
 
 Your configuration file should look like this:
@@ -60,5 +60,5 @@ After restarting Terminator you should be able to choose your favourite scheme. 
 
 See the Terminator documentation if you want to make further customizations.
 
-##Credits
+## Credits
 Big thanks to **[Mark Badolato](https://github.com/mbadolato)** for creating awesome **[iTerm2 Color Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes)** project!
