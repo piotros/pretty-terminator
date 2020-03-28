@@ -15,7 +15,7 @@ All of schemes are concatenated into one file ready to paste into Terminator con
 **No need to add them one by one :wink:.**
 
 ## What's Included?
-**Over 140 color schemes!** Take a look at [Schemes List :page_facing_up:](SchemesList.md).
+**Over 220 color schemes!** Take a look at [Schemes List :page_facing_up:](SchemesList.md).
 
 ## Installation Instructions
 To make you Terminator prettier copy [PrettyTerminator.ini](PrettyTerminator.ini) content and paste it into `[profiles]` section of configuration file located in: `~/.config/terminator/config`.
