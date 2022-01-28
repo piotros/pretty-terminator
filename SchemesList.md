@@ -8,6 +8,14 @@
 
 ![Screenshot](screenshots/3024_night.png)
 
+### Abernathy
+
+![Screenshot](screenshots/abernathy.png)
+
+### Adventure
+
+![Screenshot](screenshots/adventure.png)
+
 ### AdventureTime
 
 ![Screenshot](screenshots/adventure_time.png)
@@ -15,6 +23,10 @@
 ### Afterglow
 
 ![Screenshot](screenshots/afterglow.png)
+
+### Alabaster
+
+![Screenshot](screenshots/alabaster.png)
 
 ### AlienBlood
 
@@ -52,6 +64,18 @@
 
 ![Screenshot](screenshots/ayu_light.png)
 
+### ayu Mirage
+
+![Screenshot](screenshots/ayu_mirage.png)
+
+### Aurora
+
+![Screenshot](screenshots/aurora.png)
+
+### Banana Blueberry
+
+![Screenshot](screenshots/banana_blueberry.png)
+
 ### Batman
 
 ![Screenshot](screenshots/batman.png)
@@ -76,9 +100,9 @@
 
 ![Screenshot](screenshots/blueberry_pie.png)
 
-### Blueberry Banana
+### BlueDolphin
 
-![Screenshot](screenshots/blueberry_banana.png)
+![Screenshot](screenshots/BlueDolphin.png)
 
 ### Blue Matrix
 
@@ -147,6 +171,10 @@
 ### Calamity
 
 ![Screenshot](screenshots/calamity.png)
+
+### CGA
+
+![Screenshot](screenshots/CGA.png)
 
 ### Chalk
 
@@ -220,9 +248,25 @@
 
 ![Screenshot](screenshots/dimmed_monokai.png)
 
+### Django
+
+![Screenshot](screenshots/Django.png)
+
+### DjangoRebornAgain
+
+![Screenshot](screenshots/DjangoRebornAgain.png)
+
+### DjangoSmoothy
+
+![Screenshot](screenshots/DjangoSmoothy.png)
+
 ### Doom One
 
 ![Screenshot](screenshots/doom_one.png)
+
+### Doom Peacock
+
+![Screenshot](screenshots/doom_peacock.png)
 
 ### DotGov
 
@@ -231,6 +275,10 @@
 ### Dracula
 
 ![Screenshot](screenshots/dracula.png)
+
+### Dracula+
+
+![Screenshot](screenshots/Dracula+.png)
 
 ### Duotone Dark
 
@@ -259,6 +307,10 @@
 ### Espresso Libre
 
 ![Screenshot](screenshots/espresso_libre.png)
+
+### Fairyfloss
+
+![Screenshot](screenshots/fairyfloss.png)
 
 ### Fahrenheit
 
@@ -312,9 +364,17 @@
 
 ![Screenshot](screenshots/galaxy.png)
 
+### Galizur
+
+![image](screenshots/galizur.png)
+
 ### Github
 
 ![Screenshot](screenshots/github.png)
+
+### GitHub Dark
+
+![Screenshot](screenshots/GitHub_Dark.png)
 
 ### Glacier
 
@@ -332,6 +392,14 @@
 
 ![Screenshot](screenshots/gruvbox_dark.png)
 
+### Gruvbox Light
+
+![Screenshot](screenshots/gruvbox_light.png)
+
+### Guezwhoz
+
+![Screenshot](screenshots/Guezwhoz.png)
+
 ### Hacktober
 
 ![Screenshot](screenshots/hacktober.png)
@@ -343,6 +411,18 @@
 ### Harper
 
 ![Screenshot](screenshots/harper.png)
+
+### HaX0R_R3D
+
+![Screenshot](screenshots/HaX0R_R3D.png)
+
+### HaX0R_GR33N
+
+![Screenshot](screenshots/HaX0R_GR33N.png)
+
+### HaX0R_BLUE
+
+![Screenshot](screenshots/HaX0R_BLUE.png)
 
 ### Highway
 
@@ -384,6 +464,10 @@
 
 ![Screenshot](screenshots/ic_orange_ppl.png)
 
+### iceberg
+
+![Screenshot](screenshots/iceberg.png)
+
 ### IDEA Drak
 
 ![Screenshot](screenshots/idea.png)
@@ -412,6 +496,10 @@
 
 ![Screenshot](screenshots/jetbrains_darcula.png)
 
+### Jubi
+
+![Screenshot](screenshots/jubi.png)
+
 ### Kibble
 
 ![Screenshot](screenshots/kibble.png)
@@ -419,6 +507,10 @@
 ### Kolorit
 
 ![Screenshot](screenshots/kolorit.png)
+
+### Konsolas
+
+![Screenshot](screenshots/konsolas.png)
 
 ### Lab Fox
 
@@ -456,6 +548,10 @@
 
 ![Screenshot](screenshots/man_page.png)
 
+### Mariana
+
+![Screenshot](screenshots/mariana.png)
+
 ### Material
 
 ![Screenshot](screenshots/material.png)
@@ -463,6 +559,14 @@
 ### MaterialDark
 
 ![Screenshot](screenshots/material_dark.png)
+
+### MaterialDarker
+
+![Screenshot](screenshots/material_darker.png)
+
+### MaterialDesignColors
+
+![Screenshot](screenshots/material_design_colors.png)
 
 ### MaterialOcean
 
@@ -472,6 +576,18 @@
 
 ![Screenshot](screenshots/mathias.png)
 
+### Matrix
+
+![Screenshot](screenshots/matrix.png)
+
+### Dark Matrix
+
+![Screenshot](screenshots/darkmatrix.png)
+
+### Darker Matrix
+
+![Screenshot](screenshots/darkermatrix.png)
+
 ### Medallion
 
 ![Screenshot](screenshots/medallion.png)
@@ -479,6 +595,10 @@
 ### Midnight In Mojave
 
 ![Screenshot](screenshots/midnight_in_mojave.png)
+
+### Mirage
+
+![Screenshot](screenshots/mirage.png)
 
 ### Misterioso
 
@@ -536,6 +656,14 @@
 
 ![Screenshot](screenshots/nocturnal_winter.png)
 
+### Nord
+
+![Screenshot](screenshots/nord.png)
+
+### Nord-light
+
+![Screenshot](screenshots/nord_light.png)
+
 ### Obsidian
 
 ![Screenshot](screenshots/obsidian.png)
@@ -564,11 +692,19 @@
 
 ![Screenshot](screenshots/operator_mono_dark.png)
 
+### Overnight Slumber
+
+![Screenshot](screenshots/overnight_slumber.png)
+
+### Palenight High Contrast
+
+![Screenshot](screenshots/PaleNightHC.png)
+
 ### Pandora
 
 ![Screenshot](screenshots/pandora.png)
 
-### Parasio Dark
+### Paraiso Dark
 
 ![Screenshot](screenshots/paraiso_dark.png)
 
@@ -584,6 +720,10 @@
 
 ![Screenshot](screenshots/pencil_light.png)
 
+### Peppermint
+
+![Screenshot](screenshots/Peppermint.png)
+
 ### Piatto Light
 
 ![Screenshot](screenshots/piatto_light.png)
@@ -591,6 +731,10 @@
 ### Pnevma
 
 ![Screenshot](screenshots/pnevma.png)
+
+### Popping and Locking
+
+![Screenshot](screenshots/Popping_and_Locking.png)
 
 ### Primary
 
@@ -611,6 +755,18 @@
 ### Purple Rain
 
 ![Screenshot](screenshots/purple_rain.png)
+
+### Rapture
+
+![Screenshot](screenshots/rapture.png)
+
+### Raycast Dark
+
+![Screenshot](screenshots/raycast_dark.png)
+
+### Raycast Light
+
+![Screenshot](screenshots/raycast_light.png)
 
 ### Rebecca
 
@@ -636,6 +792,10 @@
 
 ![Screenshot](screenshots/rippedcasts.png)
 
+### Rouge 2
+
+![Screenshot](screenshots/rouge_2.png)
+
 ### Royal
 
 ![Screenshot](screenshots/royal.png)
@@ -643,6 +803,10 @@
 ### Ryuuko
 
 ![Screenshot](screenshots/ryuuko.png)
+
+### Sakura
+
+![Screenshot](screenshots/sakura.png)
 
 ### Scarlet Protocol
 
@@ -741,6 +905,10 @@ more information.
 
 ![Screenshot](screenshots/square.png)
 
+### Sublette
+
+![Screenshot](screenshots/sublette.png)
+
 ### Subliminal
 
 ![Screenshot](screenshots/subliminal.png)
@@ -785,6 +953,14 @@ more information.
 
 ![Screenshot](screenshots/the_hulk.png)
 
+### Tinacious Design (Dark)
+
+![Screenshot](screenshots/tinacious_design_dark.png)
+
+### Tinacious Design (Light)
+
+![Screenshot](screenshots/tinacious_design_light.png)
+
 ### Tomorrow
 
 ![Screenshot](screenshots/tomorrow.png)
@@ -828,6 +1004,10 @@ more information.
 ### UltraViolent
 
 ![Screenshot](screenshots/ultra_violent.png)
+
+### UltraDark
+
+![Screenshot](screenshots/ultradark.png)
 
 ### Under The Sea
 
